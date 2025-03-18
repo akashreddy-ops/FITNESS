@@ -1,7 +1,7 @@
 🏋️‍♂️ Fitness Pro – Your Personal Fitness Guide 💪
 I’m excited to share Fitness Pro, a web-based fitness app built using HTML, CSS, and JavaScript. This app helps users plan workouts, track progress, and get personalized exercise & nutrition guidance for a healthier lifestyle.
 
-📌 Features of Fitness Pro:
+📌 Features of Fitness Pro: -
 ✅ Daily Workout Plans – Suggests exercises based on fitness goals (Weight Loss, Muscle Gain, Endurance).
 ✅ Exercise Tutorials – Provides step-by-step instructions and animated guides.
 ✅ Diet & Nutrition Guide – Recommends daily protein intake and meal plans.
