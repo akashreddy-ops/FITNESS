@@ -9,7 +9,7 @@ I’m excited to share Fitness Pro, a web-based fitness app built using HTML, CS
 ✅ User-friendly UI – Clean, responsive, and interactive design.
 ✅ Progress Tracker – Keeps logs of workouts and improvements.
 
-🔧 Technologies Used:
+🔧 Technologies Used: -
 🔹 HTML – For structuring the app’s content.
 🔹 CSS – For styling and responsive design.
 🔹 JavaScript – For dynamic interactions and user engagement.
