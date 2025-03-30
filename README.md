@@ -17,4 +17,4 @@ I’m excited to share Fitness Pro, a web-based fitness app built using HTML, CS
 🎯 Who Can Use It?
 🔹 Beginners starting their fitness journey.
 🔹 Gym enthusiasts tracking progress.
-🔹 Anyone looking for a structured workout plan.
+🔹 Anyone looking for a structured workout plan
